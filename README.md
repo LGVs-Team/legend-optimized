@@ -22,3 +22,4 @@ Legend Optimized Modpack provides top performance with perfect optimization for 
 This is a Beta version, not complete. If there are problems with this modpack, please contact me [here](https://forms.gle/k8g3EYZHBqbBBiv6A)
 
 ### Legend Victory TEAM sincerely thanks the mods authors and other modpack creators who inspired this modpack.
+Our modpack is now available on modrinth, click [here](https://modrinth.com/modpack/legend-optimized/moderation)
