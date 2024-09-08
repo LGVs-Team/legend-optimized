@@ -1,7 +1,7 @@
-## _You can increase the resolution of Minecraft when using this modpack by going to Menu > Mods > Click on the 3 dashes to enter the settings of ResolutionControl 3 > Press "+" to increase the resolution_
-## _We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized). We will get more update in the future_
+# WELCOME TO LEGEND'S OPTIMIZED PROJECT!
 
-Through a top selection of performance mod performance experts, we have compiled them to provide the most optimal performance and the best experience when playing Minecraft.
+**_Through a top selection of performance mod performance experts, we have compiled them to provide the most optimal performance and the best experience when playing Minecraft._**
+## _We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)_.
 
 ## ENHANCE YOUR EXPERIENCE WITH AMBIENT SOUNDS WITH ULTIMATE PERFORMANCE
 
@@ -24,6 +24,19 @@ But that's not all...
 ## DO YOU WANT TO RECORD MINECRAFT'S MOST BEAUTIFUL MOMENTS? THIS MODPACK IS EQUIPPED WITH REPLAY MOD!
 
 Unleash your creativity in creating unique, new, epic, or cinematic scenes with Replay Mod
+
+## DO YOU WANT TO INCREASE THE RESOLUTION OF MINECRAFT WHEN USING THIS MODPACK?
+Menu > Mods
+
+![idk](https://cdn.modrinth.com/data/cached_images/f4c2ee2c2ecfb8b3f84ee71d8e5e8159465a61fc.png)
+
+Click on the 3 dashes to enter the settings of ResolutionControl 3
+![idk](https://cdn.modrinth.com/data/cached_images/f00a3f3f87b3ca940f546b23a3d6f51405c97615.png)
+
+Press "+" to increase the resolution
+
+![idk](https://cdn.modrinth.com/data/cached_images/f5c66b27a25159928dae1b724f938bf43f60a425.png)
+
 
 If there are any problems with this modpack, please contact us via the following form [here](https://forms.gle/k8g3EYZHBqbBBiv6A)
 
@@ -65,7 +78,6 @@ If there are any problems with this modpack, please contact us via the following
 - [Very Many Player (Fabric)](https://modrinth.com/mod/vmp-fabric) by ishland
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by henkelmax
-  
 ## Legend's Optimized Project Creator
 - ZinnMC
 - creeperVN
