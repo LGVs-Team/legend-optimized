@@ -66,7 +66,7 @@ This is a Beta version, not complete. If there are problems with this modpack, p
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by henkelmax
 ## Legend Optimized Project Creator
-- ZinnMC (Xuân Phúc)
+- ZinnMC
 - creeperVN
 
 We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
