@@ -26,14 +26,14 @@ But that's not all...
 Unleash your creativity in creating unique, new, epic, or cinematic scenes with Replay Mod
 
 ## DO YOU WANT TO INCREASE THE RESOLUTION OF MINECRAFT WHEN USING THIS MODPACK?
-Menu > Mods
++ Menu > Mods
 
 ![idk](https://cdn.modrinth.com/data/cached_images/f4c2ee2c2ecfb8b3f84ee71d8e5e8159465a61fc.png)
 
-Click on the 3 dashes to enter the settings of ResolutionControl 3
++ Click on the 3 dashes to enter the settings of ResolutionControl 3
 ![idk](https://cdn.modrinth.com/data/cached_images/f00a3f3f87b3ca940f546b23a3d6f51405c97615.png)
 
-Press "+" to increase the resolution
++ Press "+" to increase the resolution
 
 ![idk](https://cdn.modrinth.com/data/cached_images/f5c66b27a25159928dae1b724f938bf43f60a425.png)
 
