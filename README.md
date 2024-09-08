@@ -30,39 +30,41 @@ This is a Beta version, not complete. If there are problems with this modpack, p
 ### Legend Victory TEAM sincerely thanks the mods authors and other modpack creators who inspired this modpack.
 
 ## Again, we sincerely thank the authors of the mods equipped on Legend Optimized:
-- Fabric Language Kotkin by modmuss50
-- Dynamic FPS by LostLuma
-- BadOptimizations by thosea
-- Continuity by PepperCode1
-- Lithium by 2No2Name
-- Enhanced Block Entities by FoundationGames
-- Concurrent Chunk Management Engine (Fabic) by ishland
-- Replay Mod by Johni0702
-- Sodium Extra by FlashyReese
-- Zoomify by isxander
-- Iris Shaders by IMS
-- Noisium by Steveplays
-- Reese's Sodium Options by FlashyReese
-- ImmediatelyFast by RaphiMC
-- Cloth Config API by shedaniel
-- ResolutionControl 3 by bgp
-- Indium by comp500
-- ModernFix by embeddedt
-- [ETF] Entity Texture Features by Traben
-- Krypton by astei
-- Sodium Extra Information by FlashyReese
-- Sodium by IMS
-- Entity Culling by tr7zw
-- Fabric API modmuss50
-- Mod Menu by Terraformers (Organization), Prospector, modmuss50
-- [EMF] Entity Model Features by Traben
-- FerriteCore by malte0811
-- AmbientSounds by creativemd
-- YetAnotherConfigLib isxander
-- ThreadTweak by getchoo, devin
-- CreativeCore by creativemd
-- More Culling by FX
-- Very Many Player (Fabric) by ishland
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by modmuss50
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by LostLuma
+- [BadOptimization](https://modrinth.com/mod/badoptimizations) by thosea
+- [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
+- [Lithium](https://modrinth.com/mod/lithium) by 2No2Name
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
+- [Concurrent Chunk Management Engine (Fabic)](https://modrinth.com/mod/c2me-fabric) by ishland
+- [Replay Mod](https://modrinth.com/mod/replaymod) by Johni0702
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
+- [Zoomify](https://modrinth.com/mod/zoomify) by isxander
+- [Iris](https://modrinth.com/mod/iris) Shaders by IMS
+- [Noisium](https://modrinth.com/mod/noisium) by Steveplays
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) by shedaniel
+- [ResolutionControl 3](https://modrinth.com/mod/resolutioncontrol3) by bgp
+- [Indium](https://modrinth.com/mod/indium) by comp500
+- [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
+- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by Traben
+- [Krypton](https://modrinth.com/mod/krypton) by astei
+- [Sodium Extra Information](https://modrinth.com/mod/sodium-extra-information) by FlashyReese
+- [Sodium](https://modrinth.com/mod/sodium) by jellyquid3, IMS
+- [Entity Culling](https://modrinth.com/mod/entityculling) by tr7zw
+- [Fabric API](https://modrinth.com/mod/fabric-api) modmuss50, sfPlayer1
+- [Mod Menu](https://modrinth.com/mod/modmenu) by Terraformers (Organization), Prospector, modmuss50
+- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) by Traben
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds) by creativemd
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) isxander
+- [ThreadTweak](https://modrinth.com/mod/threadtweak/) by getchoo, devin
+- [CreativeCore](https://modrinth.com/mod/creativecore) by creativemd
+- [More Culling](https://modrinth.com/mod/moreculling) by FX
+- [Very Many Player (Fabric)](https://modrinth.com/mod/vmp-fabric) by ishland
+- [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by henkelmax
 ## Legend Optimized Project Creator
 - ZinnMC (Xuân Phúc)
 - creeperVN
