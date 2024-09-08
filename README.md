@@ -66,3 +66,5 @@ This is a Beta version, not complete. If there are problems with this modpack, p
 ## Legend Optimized Project Creator
 - ZinnMC (Xuân Phúc)
 - creeperVN
+
+*We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
