@@ -68,4 +68,5 @@ If there are any problems with this modpack, please contact us via the following
 ## Legend's Optimized Project Creator
 - ZinnMC
 - creeperVN
+
 We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
