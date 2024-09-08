@@ -1,4 +1,5 @@
 ## _You can increase the resolution of Minecraft when using this modpack by going to Menu > Mods > Click on the 3 dashes to enter the settings of ResolutionControl 3 > Press "+" to increase the resolution_
+## _We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized). We will get more update in the future_
 
 Through a top selection of performance mod performance experts, we have compiled them to provide the most optimal performance and the best experience when playing Minecraft.
 
@@ -68,5 +69,3 @@ If there are any problems with this modpack, please contact us via the following
 ## Legend's Optimized Project Creator
 - ZinnMC
 - creeperVN
-
-We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
