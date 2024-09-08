@@ -64,8 +64,8 @@ If there are any problems with this modpack, please contact us via the following
 - [Very Many Player (Fabric)](https://modrinth.com/mod/vmp-fabric) by ishland
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by henkelmax
+  
 ## Legend's Optimized Project Creator
 - ZinnMC
 - creeperVN
-- 
 We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
