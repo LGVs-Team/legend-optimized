@@ -1,3 +1,5 @@
+## _You can increase the resolution of Minecraft when using this modpack by going to Menu > Mods > Click on the 3 dashes to enter the settings of ResolutionControl 3 > Press "+" to increase the resolution_
+
 Through a top selection of performance mod performance experts, we have compiled them to provide the most optimal performance and the best experience when playing Minecraft.
 
 ## ENHANCE YOUR EXPERIENCE WITH AMBIENT SOUNDS WITH ULTIMATE PERFORMANCE
@@ -14,6 +16,7 @@ But that's not all...
 ## Vanilla Minecraft:
 ![Vanilla Minecraft](https://cdn.modrinth.com/data/cached_images/68b608fc6a22b7b980868394c3d8896149908a8c.jpeg)
 
+
 # WITH LEGEND's OPTIMIZED:
 ![WITH LEGEND's OPTIMIZED](https://cdn.modrinth.com/data/cached_images/bc30d9b360174400b2bc4f695c2b168ccdb14fda.jpeg)
 
@@ -21,15 +24,11 @@ But that's not all...
 
 Unleash your creativity in creating unique, new, epic, or cinematic scenes with Replay Mod
 
-Legend Optimized Modpack provides top performance with perfect optimization for Minecraft with the quartet Sodium + Nvidium + Iris Shader Mod + C2ME and a series of mods that significantly improve performance!
-
-### You can increase the resolution of Minecraft when using this modpack by going to Menu > Mods > Click on the 3 dashes to enter the settings of resolution Control 3 > Press "+" to increase the resolution.
-
-This is a Beta version, not complete. If there are problems with this modpack, please contact me [here](https://forms.gle/k8g3EYZHBqbBBiv6A)
+If there are any problems with this modpack, please contact us via the following form [here](https://forms.gle/k8g3EYZHBqbBBiv6A)
 
 ### Legend Victory TEAM sincerely thanks the mods authors and other modpack creators who inspired this modpack.
 
-## Again, we sincerely thank the authors of the mods equipped on Legend Optimized:
+## Again, we sincerely thank the authors of the mods equipped on Legend's Optimized!
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by modmuss50
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by LostLuma
 - [BadOptimization](https://modrinth.com/mod/badoptimizations) by thosea
@@ -65,8 +64,8 @@ This is a Beta version, not complete. If there are problems with this modpack, p
 - [Very Many Player (Fabric)](https://modrinth.com/mod/vmp-fabric) by ishland
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) by henkelmax
-## Legend Optimized Project Creator
+## Legend's Optimized Project Creator
 - ZinnMC
 - creeperVN
-
+- 
 We are now available on [Modrinth](https://modrinth.com/modpack/legend-optimized)
